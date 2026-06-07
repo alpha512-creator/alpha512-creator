@@ -1,4 +1,10 @@
-## Hi there 👋
+### Hi there 👋
+
+My name is Dhanaraj, and I'm an Undergraduate Computer Science & Engineering Student interested in all things Python & Data Science
+
+- 🌱 I’m currently learning Machine Learning & Data Science Skills
+- 🔭 I recently built a project that make analysis on Indian Real Estate data & provide interactive insights by predicting House Price, check it out [here](https://github.com/alpha512-creator/indian-real-estate-price-prediction)
+
 
 <!--
 **alpha512-creator/alpha512-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
