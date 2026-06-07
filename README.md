@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Dhanaraj, and I'm an Undergraduate Computer Science & Engineering Student interested in all things Python & Data Science
+My name is Dhanaraj, and I'm an undergraduate Computer Science & Engineering student interested in all things Python and data science.
 
 - 🌱 I’m currently learning Machine Learning & Data Science Skills
 - 🔭 I recently built a project that make analysis on Indian Real Estate data & provide interactive insights by predicting House Price, check it out [here](https://github.com/alpha512-creator/indian-real-estate-price-prediction)
